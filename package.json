@@ -4,9 +4,10 @@
   "description": " This project is all about managing the NMP package.json",
   "keywords": [
     "Live web App",
-	"Heroku Deployement",
-	"freecodecamp"
- ],
+    "Heroku Deployement",
+    "freecodecamp"
+  ],
+  "license": "MIT",
   "dependencies": {
     "express": "^4.14.0"
   },
