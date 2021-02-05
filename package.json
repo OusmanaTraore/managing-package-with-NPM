@@ -1,9 +1,12 @@
 {
   "author": "Ousmana Traoré",
   "name": "fcc-learn-npm-package-json",
-  "description":" This project is all about managing the NMP package.json",
-  "dependencies":
-   {
+  "description": " This project is all about managing the NMP package.json",
+  "keywords": [
+    "Live web App",
+    "Heroku Deployement"
+  ],
+  "dependencies": {
     "express": "^4.14.0"
   },
   "main": "server.js",
